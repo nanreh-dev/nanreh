@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola! 👋, mi nombre es Hernán y soy programador
 
 ## **Conocimientos Avanzados**
 - **HTML**
@@ -24,7 +24,7 @@ Se trata de una SPA con técnicas modernas de animación web, elección automát
 - Asimismo, para la página, fué requerimiento desarrollar el cliente de correo (smtp) el cual fué realizado en **_NODE JS_** y puesto en producción en un servidor **_Nginx_**.
 
 ## **Colaboración**
-**RETAIL 100** es una empresa argentina dedicada a la organización de grandes eventos para grandes compradores, qué además posee filiales en _Méjico_, _Brasil_, _Perú_, _Chile_ y _EEUU_. (info [aquí](http://www.retail100.com.ar/)).
+[**RETAIL 100**](http://www.retail100.com.ar/) es una empresa argentina dedicada a la organización de grandes eventos para grandes compradores, qué además posee filiales en _Méjico_, _Brasil_, _Perú_, _Chile_ y _EEUU_. es una empresa argentina dedicada a la organización de grandes eventos para grandes compradores, qué además posee filiales en _Méjico_, _Brasil_, _Perú_, _Chile_ y _EEUU_.
 
 El sistema de frontend y backend fue desarrollado por la firma [**MATIRA**](https://www.matira.com.ar/) para la cual se usó **.NET Framework** tanto en **VB** como en **C#** y el soporte de datos en **SQL Server**
 - El requerimiento fué hacer una interfaz frontend para el ingreso de nuevos inscriptos a los eventos (tanto compradores como vendedores), el cual fuese intuitivo para el operador, ya que en primera instancia se ingresaba directo por _SQL_ a la base de datos. Dicha interfaz debía contar con 2 columnas, a la izquierda una lista de los nuevos inscriptos y a la derecha las empresas que ya son parte de los eventos. El funcionamiento de la aplicación es por **_drag & drop_** y en cuanto se comienza a arrastrar un inscripto hacia la columna derecha la aplicación debe analizar si el inscripto pertence a alguna empresa existente, si es el caso la aplicación hara un desplazamiento en la columna derecha hasta la ubicación de dicha empresa y será debidamente notificado con un marcado de la zona donde soltar el inscripto. Así mismo si no existiera una empresa asociada al inscripto le indicara que debe soltarlo en el lugar de creacion de "nueva empresa". Además de hacer toda la interfaz de usuario mi labor tambien fue hacer todos los endpoints en la API para dar de alta al inscripto en las bases de datos o en su defecto dar de alta una nueva empresa. Se usaron los patrones _MVC_, _Repositorio_ e _Inyección de dependecias_ para loo relacionado con el backend y para el frontend una conjunción entre _code behind_ y _javascript_.
@@ -38,10 +38,10 @@ El sistema de frontend y backend fue desarrollado por la firma [**MATIRA**](http
 <!--[2023-12-27 17-29-23.webm](https://github.com/nanreh-dev/nanreh/assets/100144295/a0bebf15-3874-4ad4-a30b-24cff52d13ca)
 ![inscriptos](https://github.com/nanreh-dev/nanreh/assets/100144295/cd2304ad-b7ba-4355-8c73-8283b64a0e62)
 -->
-<!--![game](https://github.com/nanreh-dev/nanreh/assets/100144295/45e2ce10-8c36-4ee5-8989-a8a959961d50)-->
+<!--![game](https://github.com/nanreh-dev/nanreh/assets/100144295/45e2ce10-8c36-4ee5-8989-a8a959961d50)
 <p align="center">
   <img src="https://github.com/nanreh-dev/nanreh/assets/100144295/45e2ce10-8c36-4ee5-8989-a8a959961d50" />
-</p>
+</p>-->
 
 <!--
 **hilonegro52/hilonegro52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
