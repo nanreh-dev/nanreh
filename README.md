@@ -1,3 +1,4 @@
+[**ENGLISH**](https://github.com/nanreh-dev/nanreh/edit/master/README.en.md)
 # Hernán, desarrollo de software.
 ## **Conocimientos Avanzados**
 - **HTML**
