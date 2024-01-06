@@ -1,21 +1,22 @@
-### Hola! 👋, mi nombre es Hernán y soy programador
+# Hernán, desarrollo de software.
 ## **Conocimientos Avanzados**
 - **HTML**
-- **CSS**, frameworks derivados como **_Bootstrap_** y **_Tailwind_** y extensiones como **_Sass_** y **_Less_**.
+- **CSS**, frameworks derivados como **_Bootstrap_** y **_Tailwind_** y extensiones **_Sass_** y **_Less_**.
 - **Javascript** y sus derivados como la librería **_React_** o frameworks como **_Next JS_** y **_Qwik_**.
 - **React Native** versiones **_Bare y EXPO_** para creación de aplicaciones **_Android e IOs_** 
 - Entorno de ejecución **_Node JS_** y su framework **_Express JS_**.
 - **C#** y su framework **_.NET_** (versiones .NET Framework, .Net Core y .Net X).
 - **UNITY/C#**.
-- **GIT** tanto versiones _GUI_ como **_Sourcetree_** o línea de comandos.
+- **GIT** tanto versiones _GUI_ **_Sourcetree_** o línea de comandos.
 - **SQL Server**.
 - **Firebase**.
-- Herramientas de procesado de imágenes e ilustración como **_Photoshop_** e **_Illustrator_**.
+- **Jira**.
+- Herramientas de procesado de imágenes e ilustración **_Photoshop_** e **_Illustrator_**.
 
 ## **Conocimientos Intermedios**
 - **GO**.
 - **C/C++**.
-- **LINUX** versión **_Arch_**.
+- **LINUX** distribución **_Arch_**.
 
 ## **Desarrollo**
 - Página Web para la firma [**ARCA Software**](https://arca.com.ar/).
@@ -26,13 +27,13 @@ Se trata de una SPA con técnicas modernas de animación web, elección automát
 [**RETAIL 100**](http://www.retail100.com.ar/) es una empresa argentina dedicada a la organización de grandes eventos para grandes compradores, que además posee filiales en _México_, _Brasil_, _Perú_, _Chile_ y _EEUU_.
 
 El sistema de frontend y backend fue desarrollado por la firma [**MATIRA**](https://www.matira.com.ar/) para la cual se usó **.NET Framework** tanto en **VB** como en **C#** y el soporte de datos en **SQL Server**
-- El requerimiento fue hacer una interfaz frontend para el ingreso de nuevos inscriptos a los eventos (tanto compradores como vendedores), el cual fuese intuitivo para el operador, ya que en primera instancia se ingresaba directo por _SQL_ a la base de datos.<br/>Dicha interfaz debía contar con 2 columnas, a la izquierda una lista de los nuevos inscriptos y a la derecha las empresas que ya son parte de los eventos.<br/>El funcionamiento de la aplicación es por **_drag & drop_** y en cuanto se comienza a arrastrar un inscripto hacia la columna derecha la aplicación debe analizar si el inscripto pertence a alguna empresa existente, si es el caso la aplicación hara un desplazamiento en la columna derecha hasta la ubicación de dicha empresa y será debidamente notificado con un marcado de la zona donde soltar el inscripto.<br/>Además de hacer toda la interfaz de usuario mi labor tambien fue hacer todos los endpoints en la API para dar de alta al inscripto en las bases de datos o en su defecto dar de alta una nueva empresa.<br/>Se usaron los patrones _MVC_, _Repositorio_ e _Inyección de dependecias_ para loo relacionado con el backend y para el frontend una conjunción entre _code behind_ y _javascript_.
+- El requerimiento consistió en hacer una interfaz frontend para el ingreso de nuevos inscriptos a los eventos (tanto compradores como vendedores), el cual fuese intuitivo para el operador, ya que en primera instancia se ingresaba directo por _SQL_ a la base de datos.<br/>Dicha interfaz debía contar con 2 columnas, a la izquierda una lista de los nuevos inscriptos y a la derecha las empresas que ya son parte de los eventos.<br/>El funcionamiento de la aplicación es por **_drag & drop_** y en cuanto se comienza a arrastrar un inscripto hacia la columna derecha la aplicación debe analizar si el inscripto pertence a alguna empresa existente, si es el caso la aplicación hara un desplazamiento en la columna derecha hasta la ubicación de dicha empresa y será debidamente notificado con un marcado de la zona donde soltar el inscripto.<br/>Además de hacer toda la interfaz de usuario mi labor tambien fue hacer todos los endpoints en la API para dar de alta al inscripto en las bases de datos o en su defecto dar de alta una nueva empresa.<br/>Se usaron los patrones _MVC_, _Repositorio_ e _Inyección de dependecias_ para loo relacionado con el backend y para el frontend una conjunción entre _code behind_ y _javascript_.
 <p align="center">
   <img src="https://github.com/nanreh-dev/nanreh/assets/100144295/cd2304ad-b7ba-4355-8c73-8283b64a0e62" />
 </p>
 
 ## **Desarrollo**
-- El requerimiento fue desarrollar una app móvil (_Android_ e _IOs_) para la antes citada [**RETAIL 100**](http://www.retail100.com.ar/), en la cual los participantes de los eventos usarían para votar por las marcas que mejor hicieron presentaciones de productos, propuestas, etc.<br/>Esta app debía contar con un sistema de autenticación que manejara tanto "Administradores", los que son los encargados de armar las encuestas, como de "Compradores", que son los que votarán por sus stands favoritos.<br/>La app está desarrollada en **_React Native_** y usa 2 tipos de backend: para la sección de encuestas se confió en **_FIREBASE_**. Para la sección de autenticación se usó una API interna de la firma que provee los datos del ingresante.<br/>Se desarrollo multilingüe (inglés, español) pero tiene la posibilidad de escalar a mas idiomas sin hacer grandes modificaciones.<br/>Tiene además la posibilidad de elegir tema claro/oscuro.
+- El requerimiento consistió en desarrollar una app móvil (_Android_ e _IOs_) para la antes citada [**RETAIL 100**](http://www.retail100.com.ar/), en la cual los participantes de los eventos usarían para votar por las marcas que mejor hicieron presentaciones de productos, propuestas, etc.<br/>Esta app debía contar con un sistema de autenticación que manejara tanto "Administradores", los que son los encargados de armar las encuestas, como de "Compradores", que son los que votarán por sus stands favoritos.<br/>La app está desarrollada en **_React Native_** y usa 2 tipos de backend: para la sección de encuestas se confió en **_FIREBASE_**. Para la sección de autenticación se usó una API interna de la firma que provee los datos del ingresante.<br/>Se desarrollo multilingüe (inglés, español) pero tiene la posibilidad de escalar a mas idiomas sin hacer grandes modificaciones.<br/>Tiene además la posibilidad de elegir tema claro/oscuro.
 <p align="center">
   <img src="https://github.com/nanreh-dev/nanreh/assets/100144295/3eb42d26-52b2-47a9-a49a-305144fd5087" />&nbsp;
   <img src="https://github.com/nanreh-dev/nanreh/assets/100144295/5d2b5973-9d3e-4a09-aa08-1bb53b63ee12" />&nbsp;
@@ -76,7 +77,7 @@ Estas pruebas son a nivel nacional y tienen relevancia en toda américa. Se trat
 **hilonegro52/hilonegro52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+Hola! 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
