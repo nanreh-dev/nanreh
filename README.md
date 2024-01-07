@@ -1,4 +1,4 @@
-[<img src="https://github.com/nanreh-dev/nanreh/assets/100144295/c7a43148-4e2e-41cf-b1f6-15fb5e0b3af0" />](https://github.com/nanreh-dev/nanreh/edit/master/README.en.md)
+[<img src="https://github.com/nanreh-dev/nanreh/assets/100144295/c7a43148-4e2e-41cf-b1f6-15fb5e0b3af0" />](https://github.com/nanreh-dev/nanreh/blob/master/README.en.md)
 # Hernán, desarrollo de software.
 ## **Conocimientos Avanzados**
 - **HTML**
