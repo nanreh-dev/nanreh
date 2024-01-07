@@ -1,2 +1,2 @@
-[<img src="https://github.com/nanreh-dev/nanreh/assets/100144295/adc20965-e0bf-4a22-9a6d-6d3fbe23d229" />](https://github.com/nanreh-dev/blob/master/README.md)
+[<img src="https://github.com/nanreh-dev/nanreh/assets/100144295/adc20965-e0bf-4a22-9a6d-6d3fbe23d229" />](https://github.com/nanreh-dev/nanreh/blob/master/README.md)
 # building...
