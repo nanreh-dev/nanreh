@@ -1,4 +1,4 @@
-[**ENGLISH**](https://github.com/nanreh-dev/nanreh/edit/master/README.en.md)
+[<img src="https://github.com/nanreh-dev/nanreh/assets/100144295/c7a43148-4e2e-41cf-b1f6-15fb5e0b3af0" />](https://github.com/nanreh-dev/nanreh/edit/master/README.en.md)
 # Hernán, desarrollo de software.
 ## **Conocimientos Avanzados**
 - **HTML**
@@ -74,6 +74,8 @@ Estas pruebas son a nivel nacional y tienen relevancia en toda américa. Se trat
 ![AppAdmin](https://github.com/nanreh-dev/nanreh/assets/100144295/3eb42d26-52b2-47a9-a49a-305144fd5087)
 ![AppEstadisticas](https://github.com/nanreh-dev/nanreh/assets/100144295/da6d01d7-2b87-4d13-b84c-64c3950c3b3b)
 ![AppVotos](https://github.com/nanreh-dev/nanreh/assets/100144295/5d2b5973-9d3e-4a09-aa08-1bb53b63ee12)
+![Badge_En](https://github.com/nanreh-dev/nanreh/assets/100144295/c7a43148-4e2e-41cf-b1f6-15fb5e0b3af0)
+![Badge_Es](https://github.com/nanreh-dev/nanreh/assets/100144295/adc20965-e0bf-4a22-9a6d-6d3fbe23d229)
 <!--
 **hilonegro52/hilonegro52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
