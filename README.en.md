@@ -1,5 +1,6 @@
 [<img src="https://github.com/nanreh-dev/nanreh/assets/100144295/adc20965-e0bf-4a22-9a6d-6d3fbe23d229" />](https://github.com/nanreh-dev/nanreh/blob/master/README.md)
-# Hernán, software developer.
+&nbsp;
+<img src="https://github.com/nanreh-dev/nanreh/assets/100144295/3dc7c0f8-868b-47fe-b786-5b0842a76c9b" />
 ## **Advanced Skills**
 - **HTML**
 - **CSS**, derived frameworks like **_Bootstrap_** and **_Tailwind_**, and extensions **_Sass_** and **_Less_**.
