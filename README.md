@@ -1,5 +1,6 @@
 [<img src="https://github.com/nanreh-dev/nanreh/assets/100144295/c7a43148-4e2e-41cf-b1f6-15fb5e0b3af0" />](https://github.com/nanreh-dev/nanreh/blob/master/README.en.md)
-# Hernán, desarrollo de software.
+&nbsp;
+<img src="https://github.com/nanreh-dev/nanreh/assets/100144295/3dc7c0f8-868b-47fe-b786-5b0842a76c9b" />
 ## **Conocimientos Avanzados**
 - **HTML**
 - **CSS**, frameworks derivados como **_Bootstrap_** y **_Tailwind_** y extensiones **_Sass_** y **_Less_**.
@@ -76,6 +77,8 @@ Estas pruebas son a nivel nacional y tienen relevancia en toda américa. Se trat
 ![AppVotos](https://github.com/nanreh-dev/nanreh/assets/100144295/5d2b5973-9d3e-4a09-aa08-1bb53b63ee12)
 ![Badge_En](https://github.com/nanreh-dev/nanreh/assets/100144295/c7a43148-4e2e-41cf-b1f6-15fb5e0b3af0)
 ![Badge_Es](https://github.com/nanreh-dev/nanreh/assets/100144295/adc20965-e0bf-4a22-9a6d-6d3fbe23d229)
+![banner_in](https://github.com/nanreh-dev/nanreh/assets/100144295/b8501fc9-b10a-465f-8851-8d237bc02bb5)
+![banner_github](https://github.com/nanreh-dev/nanreh/assets/100144295/3dc7c0f8-868b-47fe-b786-5b0842a76c9b)
 <!--
 **hilonegro52/hilonegro52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
