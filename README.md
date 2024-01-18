@@ -19,6 +19,14 @@
 - **GO**.
 - **C/C++**.
 - **LINUX** distribución **_Arch_**.
+ 
+## **Desarrollo**
+- Página Web para la firma Electro Import.
+  Se trata de una aplicación web para una empresa importadora de materiales eléctricos (actualmente la empresa no opera). Se puede ver una version reducida de la misma [AQUI](https://electro-import.onrender.com).
+  La aplicación esta desarrollada en Html, Css y Vanilla Javascript. Tambien se usó la tecnología Web Sockets para que los administradores tuvieran notificaciones dinámicas cuando se generasen ordenes de compra (se puede probar en la version reducida).
+  <p align="center">
+  <img src="https://github.com/nanreh-dev/nanreh/assets/100144295/41e6c4d5-40d8-422a-98de-d71cc3a3e492" />
+</p>
 
 ## **Desarrollo**
 - Página Web para la firma [**ARCA Software**](https://arca.com.ar/).
@@ -79,6 +87,8 @@ Estas pruebas son a nivel nacional y tienen relevancia en toda américa. Se trat
 ![Badge_Es](https://github.com/nanreh-dev/nanreh/assets/100144295/adc20965-e0bf-4a22-9a6d-6d3fbe23d229)
 ![banner_in](https://github.com/nanreh-dev/nanreh/assets/100144295/b8501fc9-b10a-465f-8851-8d237bc02bb5)
 ![banner_github](https://github.com/nanreh-dev/nanreh/assets/100144295/3dc7c0f8-868b-47fe-b786-5b0842a76c9b)
+![electro-import](https://github.com/nanreh-dev/nanreh/assets/100144295/41e6c4d5-40d8-422a-98de-d71cc3a3e492)
+
 <!--
 **hilonegro52/hilonegro52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
