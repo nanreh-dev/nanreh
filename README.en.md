@@ -19,6 +19,14 @@
 - **GO**.
 - **C/C++**.
 - **LINUX** distribution **_Arch_**.
+ 
+## **Desarrollo**
+- Webpage for the Electro Import company.
+  This is a web application for an electrical materials importing company (currently not in operation). A reduced version can be viewed [HERE](https://electro-import.onrender.com).
+  The application is developed in HTML, CSS, and Vanilla JavaScript. Web Sockets technology was also utilized to provide administrators with dynamic notifications when purchase orders are generated (this can be tested in the reduced version).
+  <p align="center">
+  <img src="https://github.com/nanreh-dev/nanreh/assets/100144295/41e6c4d5-40d8-422a-98de-d71cc3a3e492" />
+</p>
 
 ## **Development**
 - Website for [**ARCA Software**](https://arca.com.ar/).
