@@ -1,25 +1,7 @@
 [<img src="https://github.com/nanreh-dev/nanreh/assets/100144295/adc20965-e0bf-4a22-9a6d-6d3fbe23d229" />](https://github.com/nanreh-dev/nanreh/blob/master/README.md)
 &nbsp;
 <img src="https://github.com/nanreh-dev/nanreh/assets/100144295/3dc7c0f8-868b-47fe-b786-5b0842a76c9b" />
-## **Advanced Skills**
-- **HTML**
-- **CSS**, derived frameworks like **_Bootstrap_** and **_Tailwind_**, and extensions **_Sass_** and **_Less_**.
-- **Javascript** and its derivatives, such as the library **_React_** or frameworks like **_Next JS_** and **_Qwik_**.
-- **React Native** versions **_Bare y EXPO_** for creating **_Android e IOs_** apps. 
-- Runtime enviroment **_Node JS_** and its framework **_Express JS_**.
-- **C#** and its framework **_.NET_** (versions .NET Framework, .Net Core and .Net X).
-- **UNITY/C#**.
-- **GIT** using both _GUI_ versions like **_Sourcetree_** or command line.
-- **SQL Server**.
-- **Firebase**.
-- **Jira**.
-- Image processing and illustration tools **_Photoshop_** and **_Illustrator_**.
 
-## **Intermediate Skills**
-- **GO**.
-- **C/C++**.
-- **LINUX** distribution **_Arch_**.
- 
 ## **Desarrollo**
 - Webpage for the Electro Import company.
   This is a web application for an electrical materials importing company (currently not in operation). A reduced version can be viewed [HERE](https://electro-import.onrender.com).
@@ -72,4 +54,27 @@ These nationwide tests hold significance throughout America. They are in a "mult
 - Uncompensated collaboration in the development (programming) of a turn-based role-playing game for **_Android_** platform developed on **_UNITY/C#_**.<br/>The screenshot displays the character selection screen.
 <p align="center">
   <img src="https://github.com/nanreh-dev/nanreh/assets/100144295/45e2ce10-8c36-4ee5-8989-a8a959961d50" />
+</p>
+
+## **Advanced Skills**
+- **HTML**
+- **CSS**, derived frameworks like **_Bootstrap_** and **_Tailwind_**, and extensions **_Sass_** and **_Less_**.
+- **Javascript** and its derivatives, such as the library **_React_** or frameworks like **_Next JS_** and **_Qwik_**.
+- **React Native** versions **_Bare y EXPO_** for creating **_Android e IOs_** apps. 
+- Runtime enviroment **_Node JS_** and its framework **_Express JS_**.
+- **C#** and its framework **_.NET_** (versions .NET Framework, .Net Core and .Net X).
+- **UNITY/C#**.
+- **GIT** using both _GUI_ versions like **_Sourcetree_** or command line.
+- **SQL Server**.
+- **Firebase**.
+- **Jira**.
+- Image processing and illustration tools **_Photoshop_** and **_Illustrator_**.
+
+## **Intermediate Skills**
+- **GO**.
+- **C/C++**.
+- **LINUX** distribution **_Arch_**.
+
+<p align="right">
+  <a href="https://www.linkedin.com/in/hernan-camara-fullstack-developer"><img src="https://github.com/nanreh-dev/nanreh/assets/100144295/7da57474-e22e-407b-a759-cc03612dec15" /></p></a>
 </p>
