@@ -1,25 +1,7 @@
 [<img src="https://github.com/nanreh-dev/nanreh/assets/100144295/c7a43148-4e2e-41cf-b1f6-15fb5e0b3af0" />](https://github.com/nanreh-dev/nanreh/blob/master/README.en.md)
 &nbsp;
 <img src="https://github.com/nanreh-dev/nanreh/assets/100144295/3dc7c0f8-868b-47fe-b786-5b0842a76c9b" />
-## **Conocimientos Avanzados**
-- **HTML**
-- **CSS**, frameworks derivados como **_Bootstrap_** y **_Tailwind_** y extensiones **_Sass_** y **_Less_**.
-- **Javascript** y sus derivados como la librería **_React_** o frameworks como **_Next JS_** y **_Qwik_**.
-- **React Native** versiones **_Bare y EXPO_** para creación de aplicaciones **_Android e IOs_** 
-- Entorno de ejecución **_Node JS_** y su framework **_Express JS_**.
-- **C#** y su framework **_.NET_** (versiones .NET Framework, .Net Core y .Net X).
-- **UNITY/C#**.
-- **GIT** tanto versiones _GUI_ **_Sourcetree_** o línea de comandos.
-- **SQL Server**.
-- **Firebase**.
-- **Jira**.
-- Herramientas de procesado de imágenes e ilustración **_Photoshop_** e **_Illustrator_**.
 
-## **Conocimientos Intermedios**
-- **GO**.
-- **C/C++**.
-- **LINUX** distribución **_Arch_**.
- 
 ## **Desarrollo**
 - Página Web para la firma Electro Import.
   Se trata de una aplicación web para una empresa importadora de materiales eléctricos (actualmente la empresa no opera). Se puede ver una version reducida de la misma [AQUI](https://electro-import.onrender.com).
@@ -73,6 +55,29 @@ Estas pruebas son a nivel nacional y tienen relevancia en toda américa. Se trat
 <p align="center">
   <img src="https://github.com/nanreh-dev/nanreh/assets/100144295/45e2ce10-8c36-4ee5-8989-a8a959961d50" />
 </p>
+
+## **Conocimientos Avanzados**
+- **HTML**
+- **CSS**, frameworks derivados como **_Bootstrap_** y **_Tailwind_** y extensiones **_Sass_** y **_Less_**.
+- **Javascript** y sus derivados como la librería **_React_** o frameworks como **_Next JS_** y **_Qwik_**.
+- **React Native** versiones **_Bare y EXPO_** para creación de aplicaciones **_Android e IOs_** 
+- Entorno de ejecución **_Node JS_** y su framework **_Express JS_**.
+- **C#** y su framework **_.NET_** (versiones .NET Framework, .Net Core y .Net X).
+- **UNITY/C#**.
+- **GIT** tanto versiones _GUI_ **_Sourcetree_** o línea de comandos.
+- **SQL Server**.
+- **Firebase**.
+- **Jira**.
+- Herramientas de procesado de imágenes e ilustración **_Photoshop_** e **_Illustrator_**.
+
+## **Conocimientos Intermedios**
+- **GO**.
+- **C/C++**.
+- **LINUX** distribución **_Arch_**.
+ 
+<p align="right">
+  <a href="https://www.linkedin.com/in/hernan-camara-fullstack-developer"><img src="https://github.com/nanreh-dev/nanreh/assets/100144295/7da57474-e22e-407b-a759-cc03612dec15" /></p></a>
+</p>
 <!--[2023-12-27 17-29-23.webm](https://github.com/nanreh-dev/nanreh/assets/100144295/a0bebf15-3874-4ad4-a30b-24cff52d13ca)
 ![inscriptos](https://github.com/nanreh-dev/nanreh/assets/100144295/cd2304ad-b7ba-4355-8c73-8283b64a0e62)
 -->
@@ -88,7 +93,7 @@ Estas pruebas son a nivel nacional y tienen relevancia en toda américa. Se trat
 ![banner_in](https://github.com/nanreh-dev/nanreh/assets/100144295/b8501fc9-b10a-465f-8851-8d237bc02bb5)
 ![banner_github](https://github.com/nanreh-dev/nanreh/assets/100144295/3dc7c0f8-868b-47fe-b786-5b0842a76c9b)
 ![electro-import](https://github.com/nanreh-dev/nanreh/assets/100144295/41e6c4d5-40d8-422a-98de-d71cc3a3e492)
-
+![in_logo](https://github.com/nanreh-dev/nanreh/assets/100144295/7da57474-e22e-407b-a759-cc03612dec15)
 <!--
 **hilonegro52/hilonegro52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
